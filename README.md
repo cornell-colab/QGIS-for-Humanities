@@ -3,7 +3,8 @@
 ### Download Workshop Materials
 
 [Download QGIS](https://qgis.org/en/site/forusers/download.html)  
-[Download Data for the workshop](https://cornell.box.com/s/n9z4k9ihlkzw7r200balgkwrikhlurc8)
+[Download Data for the workshop](https://cornell.box.com/s/n9z4k9ihlkzw7r200balgkwrikhlurc8)  
+After you download the file, unzip it, and you'll find two separate folders. Put both folders in a new folder somewhere on your machine where it's easy to find!
 
 ### Places to Find Data
 * [National Historical GIS](https://www.nhgis.org) Contains all U.S. Census data since 1790  
